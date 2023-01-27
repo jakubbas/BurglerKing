@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
 	"EngineAssociation": "5.0",
+=======
+	"EngineAssociation": "{86FE2716-4205-8F3F-2A0D-1F89DC4E2B31}",
+>>>>>>> parent of 2379630... Trip Wire inventory
 	"Category": "",
 	"Description": "",
 	"Plugins": [
